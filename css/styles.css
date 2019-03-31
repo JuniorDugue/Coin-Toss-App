@@ -1,0 +1,13 @@
+*{
+  box-sizing: border-box;
+}
+
+.container {
+  width: 900px;
+  max-width: 100%;
+  margin: 0 auto;
+}
+
+h1 {
+  text-align: center;
+}
